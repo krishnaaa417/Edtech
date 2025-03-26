@@ -4,4 +4,39 @@ section {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+  color: lightpink;
+  text-align: center;
+  text-transform: uppercase;
+  font-style: italicz;
+}
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  border-radius: 10px 10px 0 0;
+}
+article {
+  background-color: lightgoldenrodyellow;
+  padding: 10px;
+  border-radius: 0 0 10px 10px;
+  font-size: medium;
+  background-color: aqua;
+}
+p {
+  font-size: 1.2em;
+  color: black;
+  line-height: 2%;
+}
+section,
+article,
+header,
+body {
+  background-color: lightblue;
+}
+
+footer {
+  color: skyblue;
+  font-family: sans-serif;
 }
