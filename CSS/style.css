@@ -40,3 +40,17 @@ footer {
   color: skyblue;
   font-family: sans-serif;
 }
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+  color: red;
+  font-family: serif;
+  font-style: italic;
+}
+#highlight {
+  background-color: yellow;
+  font-weight: bold;
+  color: blueviolet;
+  font-family: serif;
+  font-style: italic;
+}
